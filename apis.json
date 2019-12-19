@@ -1,0 +1,64 @@
+{
+    "name": "historio.us",
+    "description": "<p>Finally, bookmarking you can love--historious saves you time by helping you find webpages you saw before. Bookmark sites with a single click, then find them again by searching for any word in the content of the page. Bookmark (we call it \"historify\") your favorite sites with just a single click. No categories to select or forms to fill out, and it works on all browsers! Search your historified sites using a simple search box. Don't wade through lists of obscure titles, enter a few keywords you remember from the content of the page and you're off!<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/historius.jpg",
+    "tags": [
+        "api provider",
+        "bookmarks",
+        "have api",
+        "history",
+        "links",
+        "paste"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/historio-us\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "historio.us",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/historius.jpg",
+            "humanURL": "http:\/\/historio.us\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/historio-us-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/historio-us-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/historio.us\/api\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/historious"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/historio.us\/help\/api\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/historio.us\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/historious"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/historio.us\/"
+        }
+    ]
+}
